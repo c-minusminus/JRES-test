@@ -7,9 +7,10 @@
     },
     "files": [
         "README.md",
-        "main.blocks",
+        "main.ts",
         "customStrings.jres",
-        "main.ts"
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -22,5 +23,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
