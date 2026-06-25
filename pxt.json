@@ -8,6 +8,7 @@
     "files": [
         "README.md",
         "main.blocks",
+        "customStrings.jres",
         "main.ts"
     ],
     "testFiles": [
