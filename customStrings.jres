@@ -6,6 +6,6 @@
     },
     "test": {
         "id": "customStrings.helloWorld",
-        "data": "SGVsbG8sIFdvcmxkIQ=="
+        "data": "VGhpcyBpcyBhIHRlc3QsIGFuZCBpdCBzaG91bGQgdGhlb3JvcmV0aWNhbGx5IHdvcmsuIEJ5IHRoZSB3YXksIGhlbGxvLCB3b3JsZCE="
     }
 }
