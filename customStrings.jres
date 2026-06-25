@@ -1,0 +1,11 @@
+{
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "customStrings"
+    },
+    "test": {
+        "id": "customStrings.helloWorld",
+        "data": "SGVsbG8sIFdvcmxkIQ=="
+    }
+}
